@@ -12,7 +12,7 @@ def cF(c):
     return c * 9 / 5 + 6
 
 def cK(c):
-    return c + 2731.5
+    return c + 273.15
 
 def fK(f):
     return (f - 32) * 5 / 9 + 273.15
